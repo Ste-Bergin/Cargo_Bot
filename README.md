@@ -28,4 +28,4 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the process 
 Ste Bergin
 
 ### Licence
-Cargo_Bot is free open source software (FOSS) provided under the MIT License - see the LICENSE.md file for details
+Cargo_Bot is free open source software (FOSS) provided under the MIT License - see the LICENSE.md file for further details.
