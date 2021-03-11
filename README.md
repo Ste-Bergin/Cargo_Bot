@@ -7,5 +7,15 @@
 ### Intro
 Cargo_Bot is an open source list of resources for the community of the game Apex Legends. The first feature of which is to track availability of Legends Token varients of Legendary items in the Apex Legends store.
 
+### Getting Started
+
+### Built With
+
+### Contributing
+Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+
+### Authors
+Ste Bergin
+
 ### Licence
-Cargo_Bot is open source software provided under the FIND OUT WHAT LICENCE I AM USING AND LINK IT HERE licence.
+Cargo_Bot is free open source software (FOSS) provided under the MIT License - see the LICENSE.md file for details
