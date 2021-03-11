@@ -4,11 +4,11 @@
 
 • [Getting Started](#Getting_Started)
 
-• [#Built With](#Built_With)
+• [Built With](#Built_With)
 
-• [#Contributing](#Contributing)
+• [Contributing](#Contributing)
 
-• [#Authors](#Authors)
+• [Authors](#Authors)
 
 • [Licence](#Licence)
 
