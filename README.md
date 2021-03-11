@@ -2,6 +2,14 @@
 
 • [Intro](#Intro)
 
+• [Getting Started](#Getting_Started)
+
+• [#Built With](#Built_With)
+
+• [#Contributing](#Contributing)
+
+• [#Authors](#Authors)
+
 • [Licence](#Licence)
 
 ### Intro
